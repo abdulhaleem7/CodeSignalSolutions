@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\CodeSignalSolutions\CodeSignalSolutions\bin\Debug\net5.0\CodeSignalSolutions.exe
+C:\Users\user\source\repos\CodeSignalSolutions\CodeSignalSolutions\bin\Debug\net5.0\CodeSignalSolutions.deps.json
+C:\Users\user\source\repos\CodeSignalSolutions\CodeSignalSolutions\bin\Debug\net5.0\CodeSignalSolutions.runtimeconfig.json
+C:\Users\user\source\repos\CodeSignalSolutions\CodeSignalSolutions\bin\Debug\net5.0\CodeSignalSolutions.runtimeconfig.dev.json
+C:\Users\user\source\repos\CodeSignalSolutions\CodeSignalSolutions\bin\Debug\net5.0\CodeSignalSolutions.dll
+C:\Users\user\source\repos\CodeSignalSolutions\CodeSignalSolutions\bin\Debug\net5.0\CodeSignalSolutions.pdb
+C:\Users\user\source\repos\CodeSignalSolutions\CodeSignalSolutions\obj\Debug\net5.0\CodeSignalSolutions.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\CodeSignalSolutions\CodeSignalSolutions\obj\Debug\net5.0\CodeSignalSolutions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\CodeSignalSolutions\CodeSignalSolutions\obj\Debug\net5.0\CodeSignalSolutions.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\CodeSignalSolutions\CodeSignalSolutions\obj\Debug\net5.0\CodeSignalSolutions.AssemblyInfo.cs
+C:\Users\user\source\repos\CodeSignalSolutions\CodeSignalSolutions\obj\Debug\net5.0\CodeSignalSolutions.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\CodeSignalSolutions\CodeSignalSolutions\obj\Debug\net5.0\CodeSignalSolutions.dll
+C:\Users\user\source\repos\CodeSignalSolutions\CodeSignalSolutions\obj\Debug\net5.0\refint\CodeSignalSolutions.dll
+C:\Users\user\source\repos\CodeSignalSolutions\CodeSignalSolutions\obj\Debug\net5.0\CodeSignalSolutions.pdb
+C:\Users\user\source\repos\CodeSignalSolutions\CodeSignalSolutions\obj\Debug\net5.0\CodeSignalSolutions.genruntimeconfig.cache
+C:\Users\user\source\repos\CodeSignalSolutions\CodeSignalSolutions\obj\Debug\net5.0\ref\CodeSignalSolutions.dll
